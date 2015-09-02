@@ -144,7 +144,7 @@
             <div class="span10 offset1">
                 <div id="modalTab">
                     <div class="tab-content">
-						<?php echo form_open( $ajax_list_url, 'method="post" id="filtering_form" autocomplete = "off"'); ?>
+						<?php echo form_open( $ajax_list_url, 'method="post" id="filtering_form" autocomplete = "on"'); ?>
 						<div class="sDiv" id="quickSearchBox">
 							<div class="sDiv2">
 								<input type="hidden" name="page" value="1" size="4" id="crud_page">

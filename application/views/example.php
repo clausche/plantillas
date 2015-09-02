@@ -31,7 +31,7 @@ a:hover
 	<div>
 		
 		<a href='<?php echo site_url('examples/plantillas_management')?>'>Plantillas</a> |
-
+		<a href='<?php echo site_url('examples/mision_management')?>'>Misión</a>
 		
 	</div>
 	<div style='height:20px;'></div>  
