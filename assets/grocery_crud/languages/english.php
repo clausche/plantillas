@@ -24,11 +24,11 @@
 	$lang['form_update_changes'] 	= 'Actualizar cambios';
 	$lang['form_cancel'] 			= 'Cancelar';
 	$lang['form_update_loading'] 	= 'Cargando, actualizando cambios...';
-	$lang['update_success_message'] = 'Tus datos han sido actualizado correcatamente.';
+	$lang['update_success_message'] = 'Tus datos han sido actualizado correctamente.';
 	$lang['form_go_back_to_list'] 	= 'Volver a la lista';
 
 	$lang['form_add'] 				= 'Añadir';
-	$lang['insert_success_message'] = 'Your data has been successfully stored into the database.';
+	$lang['insert_success_message'] = 'Se han guardado exitosamente sus datos en nuestra base de datos.';
 	$lang['form_or']				= 'o';
 	$lang['form_save'] 				= 'Guardar';
 	$lang['form_insert_loading'] 	= 'Cargando, guardando los datos...';
